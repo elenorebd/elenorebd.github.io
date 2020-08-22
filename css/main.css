@@ -2669,6 +2669,9 @@ input.num-product::-webkit-inner-spin-button {
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
+  max-width: 100%;
+  height: auto;
+  padding: 5px;
 }
 
 
